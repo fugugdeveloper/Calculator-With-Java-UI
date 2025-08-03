@@ -25,5 +25,15 @@ Originally created for an academic assignment, it demonstrates key Java concepts
 
 ---
 
-## 📁 Project Structure
+---
+
+## 🚀 How to Run
+
+1. **Compile All Java Files**
+   ```
+   javac Interface/Calculator.java
+   javac Server/CalculatorImpl.java
+   javac Server/CalculatorServer.java
+   javac Client/CalculatorClient.java
+
 
