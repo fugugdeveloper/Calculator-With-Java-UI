@@ -36,6 +36,42 @@ Originally created for an academic assignment, it demonstrates key Java concepts
    javac Server/CalculatorServer.java
    javac Client/CalculatorForm.java
 
-## 📸 Screenshots
+## 📸 Screenshot
 ![Calculator GUI](screenshots/calculator.png)
+## 🧾 UI Overview
+
+The calculator features a clean and functional interface designed using **Java Swing (JFrame)** components. Below is a breakdown of the UI elements:
+
+- **Title Bar**
+  - Label: "STANDARD"
+  - Custom minimize `[-]` and close `[X]` buttons
+
+- **Display Panel**
+  - A large text field to show current input or result
+  - Secondary display for memory or additional data
+
+- **Memory Buttons**
+  - `MR`: Memory Recall  
+  - `MC`: Memory Clear  
+  - `MS`: Memory Store
+
+- **Power & Control**
+  - `ON`: Enables the calculator  
+  - `OFF`: Disables input and clears display  
+  - Backspace button: Deletes the last character  
+
+- **Keypad**
+  - Numeric Buttons: `0`–`9` and `00`
+  - Operations: `+`, `-`, `*`, `/`, `%`
+  - Decimal: `.`  
+  - Sign Toggle: `+/-`
+
+- **Clear Buttons**
+  - `C`: Clear all input  
+  - `CE`: Clear current entry  
+
+- **Result Execution**
+  - `Answer`: Executes the current operation and displays the result in the main output area
+
+This UI provides a user-friendly, desktop-oriented experience for basic arithmetic, with support for memory operations and keyboard-style interaction.
 
