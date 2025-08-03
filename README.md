@@ -36,4 +36,6 @@ Originally created for an academic assignment, it demonstrates key Java concepts
    javac Server/CalculatorServer.java
    javac Client/CalculatorClient.java
 
+## 📸 Screenshots
+![Calculator GUI](screenshots/calculator.png)
 
