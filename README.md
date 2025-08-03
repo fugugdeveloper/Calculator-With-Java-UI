@@ -34,7 +34,7 @@ Originally created for an academic assignment, it demonstrates key Java concepts
    javac Interface/Calculator.java
    javac Server/CalculatorImpl.java
    javac Server/CalculatorServer.java
-   javac Client/CalculatorClient.java
+   javac Client/CalculatorForm.java
 
 ## 📸 Screenshots
 ![Calculator GUI](screenshots/calculator.png)
